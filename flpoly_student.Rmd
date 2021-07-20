@@ -41,21 +41,6 @@ I am _passionate about_:
 - How to create a variable 
 - [How to add a URL to R md](https://stackoverflow.com/questions/29787850/how-do-i-add-a-url-to-r-markdown)
 
-# Promblem 3
-
-```{r}
-my_name <- "Michael Wakefield"
-name_lenght <- nchar(my_name)
-my_name
-name_lenght
-
-
-```
-
-```{r}
-
-```
-
 
 ***
 
